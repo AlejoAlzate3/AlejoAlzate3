@@ -4,7 +4,6 @@
 
 ![Banner-dark-1050](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/0b71f387-6e13-4f7f-8a06-cdddfa32467e)
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alejo_alzate03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandroalzatetovar/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlejoAlzate03)
 
 ## 💻 Tech Stack:
