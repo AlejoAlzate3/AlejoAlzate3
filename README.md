@@ -25,8 +25,8 @@
 <!-- Start About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
-Soy desarrollador de software Back-end  y Front-end, con 1 año y medio de experiencia en tecnologías Web.
-Mi travesía en el universo tecnológico comenzó como autodidacta, y desde entonces, no he dejado de buscar oportunidades para aprender y crecer en este apasionante campo. 
+Soy desarrollador de software Back-end  y Front-end, con 1 año y medio de experiencia en tecnologías Web.<br>
+Mi travesía en el universo tecnológico comenzó como autodidacta, y desde entonces, no he dejado de buscar oportunidades para aprender y crecer en este apasionante campo. <br>
 Principalmente realizo proyectos con los lenguajes y las herramientas que forman la columna vertebral de la programación, como Java, Spring Boot, Spring Security y Hibernate, para dar vida a poderosas soluciones en el lado del servidor. Pero eso no es todo, ya que mi creatividad también fluye hacia el lado del cliente, donde moldeo experiencias cautivadoras utilizando Angular, CSS3, HTML5, JavaScript y TypeScript.
 <!-- End About Me -->
 
