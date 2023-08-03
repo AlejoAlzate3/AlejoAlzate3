@@ -42,7 +42,7 @@ Principalmente realizo proyectos con los lenguajes y las herramientas que forman
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- End Tech Stack -->
-<br><br>
+<br>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -71,7 +71,5 @@ Principalmente realizo proyectos con los lenguajes y las herramientas que forman
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
