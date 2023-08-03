@@ -25,6 +25,7 @@
 <!-- Start About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
+Soy desarrollador de software Back-end  y Front-end, con 1 año y medio de experiencia en tecnologías Web. Tengo conocimientos en herramientas office y tecnológicas web, cuento con destrezas en al aprendizaje continuo y el trabajo en equipo.
 <!-- End About Me -->
 
 <!-- Start Tech Stack -->
@@ -72,12 +73,3 @@
 
 </p>        
 <!--- stats (end) -->
-
-
-<div align="center">
-  <h2 align="center">🔝 Top Contribuciones Repositorios</h2>
-</div>
-
-  ![](https://github-contributor-stats.vercel.app/api?username=AlejoAlzate3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  ---
-  [![](https://visitcount.itsvg.in/api?id=AlejoAlzate3&icon=2&color=0)](https://visitcount.itsvg.in)
