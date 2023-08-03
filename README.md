@@ -74,11 +74,11 @@
 <!--- stats (end) -->
 
 
-
-### 🔝 Top Contributed Repo
+<div align="center">
+  <h3 align="center">🔝 Top Contributed Repo</h3>
+</div>
+ 
 ![](https://github-contributor-stats.vercel.app/api?username=AlejoAlzate3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlejoAlzate3&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
