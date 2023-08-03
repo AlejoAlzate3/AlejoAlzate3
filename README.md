@@ -24,7 +24,7 @@
 <!-- Start About Me -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
-Desarrollador Backend y Front-end, con +1 año de experiencia en tecnologías Web.
+Desarrollador Backend y Frontend, con +1 año de experiencia en tecnologías Web.
 <br><br>
 Mi travesía en el universo tecnológico comenzó como autodidacta, y desde entonces, no he dejado de buscar oportunidades para aprender y crecer en este apasionante campo. 
 <br><br>
