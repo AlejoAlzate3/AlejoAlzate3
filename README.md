@@ -28,7 +28,7 @@ Desarrollador Backend y Frontend, con +1 año de experiencia en tecnologías Web
 <br><br>
 Mi travesía en el universo tecnológico comenzó como autodidacta, y desde entonces, no he dejado de buscar oportunidades para aprender y crecer en este apasionante campo. 
 <br><br>
-Principalmente realizo proyectos en Java, Spring Boot, Spring Security y Hibernate, en el lado del servidor. Hacia el lado del cliente, utilizando Angular, CSS3, HTML5, JavaScript yTypeScript.
+Principalmente realizo proyectos en Java, Spring Boot, Spring Security y Hibernate, en el lado del servidor. Hacia el lado del cliente, utilizando Angular, CSS3, HTML5, JavaScript y TypeScript.
 <!-- End About Me -->
 <br>
 
