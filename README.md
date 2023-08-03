@@ -1,5 +1,5 @@
 <div align ="center">
-  <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03">Alejandro Alzate</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03">Alejandro Alzate Tovar</a> 👋</h1>
 </div>
 
 ![Banner-dark-1050](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/0b71f387-6e13-4f7f-8a06-cdddfa32467e)
