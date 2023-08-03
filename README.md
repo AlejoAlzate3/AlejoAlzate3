@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03">Alejandro Alzate</a> 👋</h1>
 </div>
 
-![Banner-dark](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/fff8213e-b5fa-4022-9ba5-4a4dec41aa3e)
+<img src="![Banner-dark](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/fff8213e-b5fa-4022-9ba5-4a4dec41aa3e)" >
 
 ## 💻 Junior Software Enginner
 <br>
