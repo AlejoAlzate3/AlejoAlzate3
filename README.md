@@ -1,6 +1,6 @@
 <!-- Start Tittle -->
 <div align ="center">
-  <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03">Alejandro Alzate Tovar</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03" target="_blank">Alejandro Alzate Tovar</a> 👋</h1>
 </div>
 <!-- End Tittle -->
 
