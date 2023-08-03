@@ -1,4 +1,7 @@
-# 👋 ¡Hola soy Alejandro Alzate Tovar y bienvenidos a mi perfil de GitHub!
+<div align ="center">
+  <h1 align="center">Hola, soy <a href="https://linktr.ee/alejo_alzate03">Alejandro Alzate</a> 👋</h1>
+</div>
+
 <br>
 
 ## 💻 Junior Software Enginner
