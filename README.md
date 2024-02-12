@@ -37,7 +37,7 @@ Principalmente realizo proyectos en Java, Spring Boot, Spring Security e Hiberna
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,angular,js,html,css,cs,dotnet,docker,jenkins,bootstrap,md,ts,mysql,postgres,mongodb,postman,fastapi,git,github,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,angular,js,html,css,cs,dotnet,docker,jenkins,bootstrap,md,ts,mysql,postgres,mongodb,postman,fastapi,git,github,linux&perline=12" />
   </a>
 </p>
 
