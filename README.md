@@ -5,7 +5,7 @@
 <!-- End Tittle -->
 
 <!-- Start Banner and Social Media -->
-![Banner-dark-1050](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/0b71f387-6e13-4f7f-8a06-cdddfa32467e)
+![Ingeniero](https://github.com/AlejoAlzate3/AlejoAlzate3/assets/78713566/b4f7c376-33ed-4e7f-96c8-38b5ece6c2f4)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandroalzatetovar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
